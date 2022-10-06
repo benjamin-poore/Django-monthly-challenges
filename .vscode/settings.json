@@ -1,0 +1,13 @@
+{
+  "python.pythonPath": "/bin/python3",
+  //   "window.zoomLevel": 1,
+  "python.languageServer": "Pylance",
+
+  "beautify.language": {
+    "html": ["htm", "html", "django-html"]
+  },
+  "[django-html]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  }
+}
